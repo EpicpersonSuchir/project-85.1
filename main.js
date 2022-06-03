@@ -78,7 +78,7 @@ add();
 }
 function specialkey()
 {
-	img_image = "spkey.png"
+	img_image = "spkey"
 	add();
 }
 function otherkey()
